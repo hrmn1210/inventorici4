@@ -25,7 +25,7 @@
             <div class="login-panel panel panel-default">
                 <div class="panel-heading">Log in</div>
                 <div class="panel-body">
-                    <form role="form" action="<?= base_url('admin/autentikasi-login'); ?>" method="post">
+                    <form role="form">
                         <fieldset>
                             <div class="form-group">
                                 <input class="form-control" placeholder="Username" name="username" type="text" autofocus="">
