@@ -11,6 +11,7 @@
     <link href="<?= base_url('assets/css/bootstrap-table.css') ?>" rel="stylesheet">
     <link href="<?= base_url('assets/css/sweetalert2.min.css') ?>" rel="stylesheet">
     <link href="<?= base_url('assets/css/styles.css') ?>" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
 
     <!--[if lt IE 9]>
 <script src="js/html5shiv.js"></script>

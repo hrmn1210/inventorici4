@@ -21,11 +21,11 @@
             <div class="panel panel-blue panel-widget">
                 <div class="row no-padding">
                     <div class="col-sm-3 col-lg-5 widget-left">
-                        <em class="glyphicon glyphicon-shopping-cart glyphicon-l"></em>
+                        <i class="fas fa-car fa-4x"></i>
                     </div>
                     <div class="col-sm-9 col-lg-7 widget-right">
                         <div class="large">120</div>
-                        <div class="text-muted">New Orders</div>
+                        <div class="text-muted">Total</div>
                     </div>
                 </div>
             </div>
